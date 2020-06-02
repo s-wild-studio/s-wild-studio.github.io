@@ -45,3 +45,5 @@ algorix.co, 54616, RESELLER
 google.com, pub-8220484924406444, RESELLER
 telaria.com, rwd19-1169829, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1169829, RESELLER, 1a4e959a1b50034a
+oceanengine.com, 5854, DIRECT
+mintegral.com, 14478, DIRECT
