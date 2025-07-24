@@ -307,9 +307,6 @@ yandex.com, 37982190, RESELLER
 mars.media, 1010463, RESELLER
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 gitberry.com, IG3S1B, RESELLE
-
-
-
 google.com, pub-2912341234436825, DIRECT, f08c47fec0942fa0
 google.com, pub-4968451378104317, DIRECT, f08c47fec0942fa0
 inmobi.com, 6a688caa76fc4d7c8ac13788c9dea295, DIRECT, 83e75a7ae333ca9d
